@@ -1,0 +1,40 @@
+1
+Andrew
+Hand Sanitizer
+1
+90.99
+15.0
+Subang
+01828737172
+Credit Card
+Delivered
+2
+Brian
+Face Mask
+3
+163.77
+15.0
+SS15
+0188291283
+Online Payment
+Pending
+3
+Alex
+Face Mask
+2
+101.0
+15.0
+SS18
+0182726632
+Credit Card
+Pending
+4
+William
+Hand Sanitizer
+3
+150.75
+15.0
+SS17
+0912883722
+Credit Card
+Delivering

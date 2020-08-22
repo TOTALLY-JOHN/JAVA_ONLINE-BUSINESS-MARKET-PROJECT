@@ -1,0 +1,36 @@
+Mask
+Malaysia
+20
+50.5
+Camphill
+2
+Hand Sanitizer
+Malaysia
+50
+30.25
+Dettol
+200.0
+Mask
+China
+30
+44.5
+Feipeng
+2
+Hand Sanitizer
+America
+100
+90.99
+Purell
+250.0
+Hand Sanitizer
+America
+150
+50.25
+Highmark
+200.0
+Mask
+Malaysia
+60
+54.59
+DuraSafe
+2
